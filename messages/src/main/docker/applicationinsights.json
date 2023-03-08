@@ -1,0 +1,11 @@
+{
+  "connectionString": "InstrumentationKey=XXXXXXXXX",
+  "role": {
+    "name": "TEST_APP"
+  },
+  "instrumentation": {
+    "logging": {
+      "level": "INFO"
+    }
+  }
+}
